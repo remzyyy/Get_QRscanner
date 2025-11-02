@@ -1,5 +1,7 @@
 # QR Code Generator  _(HTML, CSS, and Js)_ <br>
-![My_Git-ID](https://github.com/remzyyy)
+-[My_Git-ID](https://github.com/remzyyy)
+-[My_Program](https://get-qrscanner.netlify.app/)
+
 ## _HTML_
 ```html
 <!DOCTYPE html>
